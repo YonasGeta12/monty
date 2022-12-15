@@ -112,6 +112,6 @@ All programs and functions were compiled with `gcc 4.8.4` using flags `-Wall -We
 
 All files have been written in the Betty Style.
 
-## Authors
+## Author
 
 **Yonas Geta**
